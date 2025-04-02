@@ -4,8 +4,7 @@ My Name is **Evan Edreo Honggo Widjojo**
 >Always do your best and never give up
 
 ## Socials
-[Linkedin Page] 
-(https://www.linkedin.com/in/evanedreo/)
+[Linkedin Page](https://www.linkedin.com/in/evanedreo/)
 
 ## Link to my github sections
 [Introduction](#introduction)
@@ -28,4 +27,3 @@ My Name is **Evan Edreo Honggo Widjojo**
 - []create a startup
 - []become a millionare/billionare
 
-##### Notes: this is for a class assignment
